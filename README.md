@@ -9,8 +9,7 @@ Hello! I'm Symon, a passionate frontend developer based in Philippines. With a l
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=maxxx098&limit=5&theme=dark&combine_all_yearly_contributions=true)
